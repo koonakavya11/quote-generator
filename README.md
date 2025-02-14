@@ -1,4 +1,4 @@
-# 🚀 Quote of the Day Web App
+# 🚀 Quote of the Day
 
 ## 🌟 Overview
 Welcome to the **Quote of the Day** web app! This dynamic quote generator fetches random inspirational quotes with a simple click, keeping you motivated throughout the day. 💡✨
