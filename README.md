@@ -13,7 +13,7 @@ Welcome to the **Quote of the Day** web app! This dynamic quote generator fetche
 - Uses modern JavaScript features like `async/await` for API calls.
 
 ## 🚀 Live Demo
-Check out the live version here: [Quote Generator]((https://quote-generator-puce-three.vercel.app/))
+Check out the live version here: [Quote Generator]([https://quote-generator-puce-three.vercel.app/])
 
 ## 📸 Screenshot
 ![Quote Generator Preview - 1](https://github.com/user-attachments/assets/df18dd98-e549-497a-9274-a530c4992b91)
